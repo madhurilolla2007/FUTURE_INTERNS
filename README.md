@@ -12,7 +12,7 @@ This repository contains all tasks completed as part of the Data Science & Analy
 - Built an interactive dashboard using Power BI
 
 ### 🔹 Task 2
-
+analyzed customer churn behavior in a telecom dataset to identify patterns, retention drivers, and actionable insights to reduce customer loss.
 
 
 ---
